@@ -1,0 +1,6 @@
+setuptools
+labelImg
+opencv-python
+lxml
+pandas
+openpyxl
